@@ -30,6 +30,7 @@ internal class Program
         Console.WriteLine("su nota es " + Nota.Calculadora2(quiz3, taller3, parcial3));
         
         System.Console.WriteLine("esto es un cambio para gits");
+        System.Console.WriteLine("hola señor");
         System.Console.WriteLine("SU NOTA FINAL ES:"+Nota.ponderado);
     }
 }
