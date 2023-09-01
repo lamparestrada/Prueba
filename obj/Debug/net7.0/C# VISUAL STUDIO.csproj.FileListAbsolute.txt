@@ -1,0 +1,14 @@
+C:\C# VISUAL STUDIO\bin\Debug\net7.0\C# VISUAL STUDIO.exe
+C:\C# VISUAL STUDIO\bin\Debug\net7.0\C# VISUAL STUDIO.deps.json
+C:\C# VISUAL STUDIO\bin\Debug\net7.0\C# VISUAL STUDIO.runtimeconfig.json
+C:\C# VISUAL STUDIO\bin\Debug\net7.0\C# VISUAL STUDIO.dll
+C:\C# VISUAL STUDIO\bin\Debug\net7.0\C# VISUAL STUDIO.pdb
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\C# VISUAL STUDIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\C# VISUAL STUDIO.AssemblyInfoInputs.cache
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\C# VISUAL STUDIO.AssemblyInfo.cs
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\C# VISUAL STUDIO.csproj.CoreCompileInputs.cache
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\C# VISUAL STUDIO.dll
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\refint\C# VISUAL STUDIO.dll
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\C# VISUAL STUDIO.pdb
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\C# VISUAL STUDIO.genruntimeconfig.cache
+C:\C# VISUAL STUDIO\obj\Debug\net7.0\ref\C# VISUAL STUDIO.dll
